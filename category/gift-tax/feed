@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>贈與稅及遺產稅 Archives - 愛加倍會計師事務所 - AGAPE CPA FIRM</title>
+	<atom:link href="./images/category/gift-tax/feed" rel="self" type="application/rss+xml" />
+	<link>./images/category/gift-tax</link>
+	<description></description>
+	<lastBuildDate>Fri, 10 Jan 2025 18:29:36 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.9.1</generator>
+
+<image>
+	<url>./images/wp-content/uploads/sites/10/2020/07/favicon-1-150x150.png</url>
+	<title>贈與稅及遺產稅 Archives - 愛加倍會計師事務所 - AGAPE CPA FIRM</title>
+	<link>./images/category/gift-tax</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Roth IRA的後門原則</title>
+		<link>./images/7651.html</link>
+		
+		<dc:creator><![CDATA[jeel]]></dc:creator>
+		<pubDate>Fri, 10 Jan 2025 18:29:36 +0000</pubDate>
+				<category><![CDATA[個人稅]]></category>
+		<category><![CDATA[林懿稅務講堂]]></category>
+		<category><![CDATA[贈與稅及遺產稅]]></category>
+		<category><![CDATA[希望之聲訪談]]></category>
+		<guid isPermaLink="false">./images/?p=7651</guid>
+
+					<description><![CDATA[<p>歡迎來到林㦤稅務講堂，我是會計師林懿。Roth IRA因為具有若是符合持有超過五年以及超過五十九歲半後提領，則投資收益免稅及不受RMD的限制(即到了73歲必須強制提領退休金的一部份）的優點，獲得了大家的喜愛。然而，雖然Roth IRA有著免稅的巨大吸引力，卻不是每個人都可以不受限制的自由投入。 以2024年為例，投入的人或是夫妻必須要有勞務所得。而且每年投入的上限為七千美元，若是超過五十歲的納稅人，則可以多追加一千元，投入上限增為八千元。然而單身者的MAGI,修正後的調整所得，若是超過了十六萬一千元，夫妻合併申報的MAGI若是超過了二十三萬元，則沒有辦法直接投入Roth IRA.我們中國人有一句話叫”走後門“，意思是說若是沒辦法走前門，那就走後門。這一句話也可以應用在Roth IRA的投入上。而且Roth IRA的後門原則是有明文規定的。意思指的是若是所得太高而不能直接的投入Roth IRA, 那就要先有traditional IRA, 然後先投入traditional IRA, 而此時的traditional IRA又因為所得的限制,變成了non-deductible IRA, 意思是雖然可以投錢，但達不到減稅的功能。這時再將投入non deductible IRA中的投資,轉入Roth IRA. 而申報個人所得稅的時候，要申報表格8606說明投入及轉投。但是使用後門原則還要注意到Mega back door rule的投入上限及移轉時有可能產生課稅所得的pro rata rule. 以上便是本期節目的全部內容，感謝大家的收聽，我們下期節目再會。</p>
+<p>The post <a href="./images/7651.html">Roth IRA的後門原則</a> appeared first on <a href="./images">愛加倍會計師事務所 - AGAPE CPA FIRM</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p class="p1">歡迎來到林㦤稅務講堂，我是會計師林懿。<span class="s1">Roth IRA</span>因為具有若是符合持有超過五年以及超過五十九歲半後提領，則投資收益免稅及不受<span class="s1">RMD</span>的限制<span class="s1">(</span>即到了<span class="s1">73</span>歲必須強制提領退休金的一部份）的優點，獲得了大家的喜愛。然而，雖然<span class="s1">Roth IRA</span>有著免稅的巨大吸引力，卻不是每個人都可以不受限制的自由投入。</p>
+<p class="p1">以<span class="s1">2024</span>年為例，投入的人或是夫妻必須要有勞務所得。而且每年投入的上限為七千美元，若是超過五十歲的納稅人，則可以多追加一千元，投入上限增為八千元。然而單身者的<span class="s1">MAGI,</span>修正後的調整所得，若是超過了十六萬一千元，夫妻合併申報的<span class="s1">MAGI</span>若是超過了二十三萬元，則沒有辦法直接投入<span class="s1">Roth IRA.</span>我們中國人有一句話叫<span class="s1">”</span>走後門<span class="s1">“</span>，意思是說若是沒辦法走前門，那就走後門。這一句話也可以應用在<span class="s1">Roth IRA</span>的投入上。而且<span class="s1">Roth IRA</span>的後門原則是有明文規定的。意思指的是若是所得太高而不能直接的投入<span class="s1">Roth IRA, </span>那就要先有<span class="s1">traditional IRA, </span>然後先投入<span class="s1">traditional IRA, </span>而此時的<span class="s1">traditional IRA</span>又因為所得的限制<span class="s1">,</span>變成了<span class="s1">non-deductible IRA, </span>意思是雖然可以投錢，但達不到減稅的功能。這時再將投入<span class="s1">non deductible IRA</span>中的投資<span class="s1">,</span>轉入<span class="s1">Roth IRA. </span>而申報個人所得稅的時候，要申報表格<span class="s1">8606</span>說明投入及轉投。但是使用後門原則還要注意到<span class="s1">Mega back door rule</span>的投入上限及移轉時有可能產生課稅所得的<span class="s1">pro rata rule.</span></p>
+<p class="p1">以上便是本期節目的全部內容，感謝大家的收聽，我們下期節目再會。</p>
+<p>The post <a href="./images/7651.html">Roth IRA的後門原則</a> appeared first on <a href="./images">愛加倍會計師事務所 - AGAPE CPA FIRM</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Roth IRA conversion</title>
+		<link>./images/7649.html</link>
+		
+		<dc:creator><![CDATA[jeel]]></dc:creator>
+		<pubDate>Fri, 10 Jan 2025 18:27:56 +0000</pubDate>
+				<category><![CDATA[個人稅]]></category>
+		<category><![CDATA[林懿稅務講堂]]></category>
+		<category><![CDATA[贈與稅及遺產稅]]></category>
+		<category><![CDATA[希望之聲訪談]]></category>
+		<guid isPermaLink="false">./images/?p=7649</guid>
+
+					<description><![CDATA[<p>歡迎來到林懿稅務講堂，我是會計師林㦤。Roth IRA一直受到許多人的喜愛，原因是因為如果滿足了五十九歲半之後才提领出來及擁有帳戶五年以上，那在Roth IRA中所增長的投資收益是免稅的，以及有一些人401k𥚃面的錢很多，擔心到了退休年齡要RMD,（指的是到了73歲要強制提領退休金的一部份）變成退休後反而比在職時要交更多稅。反觀Roth IRA內的投資並不需要RMD，所以有很多人在做退休規劃的時候，也將Roth IRA的conversation 考慮進去。 而什麼是Roth IRA conversation? 顧名思義，就是將存在稅前延稅帳戶中的投資，例如存在401k, 傳統退休金帳戶(traditional IRA)及SEP IRA中的投資，轉至稅後投資帳戶，Roth IRA裡。也正因為是將延稅帳戶稅前的錢轉至稅後的投資帳戶，所以轉帳戶的這個動作,會造成課稅所得的產生，在申報個人所得稅時，要附上表格8606,用以計算此舉所產生的課稅所得。所以納稅人要做Roth IRA conversation 的時候，最好拿出tax bracket 稅級表，來估計因為轉換所造成的影響。而轉換的方式有以60天為期的間接轉換，或是trustee to trustee的直接轉換及若是IRA在同一金融機構，直接要求在同一金融機構內轉，等等。 是否要做Roth IRA conversation, 答案可能是因人而異的。因為納稅人同時要考慮到移轉時可能的稅率增加，真正退休時有可能的稅率，及五年持有Roth IRA帳戶的限制等等。 以上便是本期節目的全部內容。感謝大家的收聽。我們下期節目再會。</p>
+<p>The post <a href="./images/7649.html">Roth IRA conversion</a> appeared first on <a href="./images">愛加倍會計師事務所 - AGAPE CPA FIRM</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p class="p1">歡迎來到林懿稅務講堂，我是會計師林㦤。<span class="s1">Roth IRA</span>一直受到許多人的喜愛，原因是因為如果滿足了五十九歲半之後才提领出來及擁有帳戶五年以上，那在<span class="s1">Roth IRA</span>中所增長的投資收益是免稅的，以及有一些人<span class="s1">401k</span><span class="s2">𥚃面的錢很多，擔心到了退休年齡要</span><span class="s1">RMD,</span>（指的是到了<span class="s1">73</span>歲要強制提領退休金的一部份）變成退休後反而比在職時要交更多稅。反觀<span class="s1">Roth IRA</span>內的投資並不需要<span class="s1">RMD</span>，所以有很多人在做退休規劃的時候，也將<span class="s1">Roth IRA</span>的<span class="s1">conversation </span>考慮進去。</p>
+<p class="p1">而什麼是<span class="s1">Roth IRA conversation? </span>顧名思義，就是將存在稅前延稅帳戶中的投資，例如存在<span class="s1">401k, </span>傳統退休金帳戶<span class="s1">(traditional IRA)</span>及<span class="s1">SEP IRA</span>中的投資，轉至稅後投資帳戶，<span class="s1">Roth IRA</span>裡。也正因為是將延稅帳戶稅前的錢轉至稅後的投資帳戶，所以轉帳戶的這個動作<span class="s1">,</span>會造成課稅所得的產生，在申報個人所得稅時，要附上表格<span class="s1">8606,</span>用以計算此舉所產生的課稅所得。所以納稅人要做<span class="s1">Roth IRA conversation </span>的時候，最好拿出<span class="s1">tax bracket </span>稅級表，來估計因為轉換所造成的影響。而轉換的方式有以<span class="s1">60</span>天為期的間接轉換，或是<span class="s1">trustee to trustee</span>的直接轉換及若是<span class="s1">IRA</span>在同一金融機構，直接要求在同一金融機構內轉，等等。</p>
+<p class="p1">是否要做<span class="s1">Roth IRA conversation, </span>答案可能是因人而異的。因為納稅人同時要考慮到移轉時可能的稅率增加，真正退休時有可能的稅率，及五年持有<span class="s1">Roth IRA</span>帳戶的限制等等。</p>
+<p class="p1">以上便是本期節目的全部內容。感謝大家的收聽。我們下期節目再會。</p>
+<p>The post <a href="./images/7649.html">Roth IRA conversion</a> appeared first on <a href="./images">愛加倍會計師事務所 - AGAPE CPA FIRM</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>淺談信託 I</title>
+		<link>./images/7640.html</link>
+		
+		<dc:creator><![CDATA[jeel]]></dc:creator>
+		<pubDate>Fri, 10 Jan 2025 18:13:58 +0000</pubDate>
+				<category><![CDATA[個人稅]]></category>
+		<category><![CDATA[林懿稅務講堂]]></category>
+		<category><![CDATA[贈與稅及遺產稅]]></category>
+		<category><![CDATA[希望之聲訪談]]></category>
+		<guid isPermaLink="false">./images/?p=7640</guid>
+
+					<description><![CDATA[<p>歡迎來到林懿稅務講堂，我是會計師林懿。在執行業務的過程當中，有許多人都有關於信託的問題，本期節目的內容就是淺談信託。 大體上來講，信託分成可撤銷信託與不可撤銷信託兩大類。顧名思義，可撤銷信託指的是在生前可以隨意撤销或更改信託內容的稱為可撤銷信託。例如今天兒子對我好，我打算多分一點給他，明天覺得女兒也不錯，還是均分，這就是可撤銷信託。由於生前都有機會更改，一般也稱為生前信託，living trust. 而生前信託的稅務處理方式是仍然使用納稅人的社會安全號，所以就算把資產置入生前信託中，資產所產生的所得仍與納稅人的所得在表格1040上合併申報。另一大類為不可撤銷信託，而按其性質細分則可在分成簡單信託（simple)，複雜信託(complex)及授與人信託(grantor)不可撤銷信託除授予人信託grantor trust外，若是該年所得超過六百美元，或是有非稅務居民的受益人，則應該使用表格1041申報。 因為在加州遺產超過約美金十六、十七萬就進入probate的程序，而一旦進入了probate的程序，受益人拿到財產的速度會變得十分緩慢。而單憑遺囑，是不能免除probate的程序。所以雖然生前信託本身沒有省稅功能，但是還是鼓勵大家準備生前信託。 以上便是本期節目的全部內容，感謝大家的收聽，我們下期節目再會。</p>
+<p>The post <a href="./images/7640.html">淺談信託 I</a> appeared first on <a href="./images">愛加倍會計師事務所 - AGAPE CPA FIRM</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p class="p1">歡迎來到林懿稅務講堂，我是會計師林懿。在執行業務的過程當中，有許多人都有關於信託的問題，本期節目的內容就是淺談信託。</p>
+<p class="p1">大體上來講，信託分成可撤銷信託與不可撤銷信託兩大類。顧名思義，可撤銷信託指的是在生前可以隨意撤销或更改信託內容的稱為可撤銷信託。例如今天兒子對我好，我打算多分一點給他，明天覺得女兒也不錯，還是均分，這就是可撤銷信託。由於生前都有機會更改，一般也稱為生前信託，<span class="s1">living trust. </span>而生前信託的稅務處理方式是仍然使用納稅人的社會安全號，所以就算把資產置入生前信託中，資產所產生的所得仍與納稅人的所得在表格<span class="s1">1040</span>上合併申報。另一大類為不可撤銷信託，而按其性質細分則可在分成簡單信託（<span class="s1">simple)</span>，複雜信託<span class="s1">(complex)</span>及授與人信託<span class="s1">(grantor)</span>不可撤銷信託除授予人信託<span class="s1">grantor trust</span>外，若是該年所得超過六百美元，或是有非稅務居民的受益人，則應該使用表格<span class="s1">1041</span>申報。</p>
+<p class="p1">因為在加州遺產超過約美金十六、十七萬就進入<span class="s1">probate</span>的程序，而一旦進入了<span class="s1">probate</span>的程序，受益人拿到財產的速度會變得十分緩慢。而單憑遺囑，是不能免除<span class="s1">probate</span>的程序。所以雖然生前信託本身沒有省稅功能，但是還是鼓勵大家準備生前信託。</p>
+<p class="p1">以上便是本期節目的全部內容，感謝大家的收聽，我們下期節目再會。</p>
+<p>The post <a href="./images/7640.html">淺談信託 I</a> appeared first on <a href="./images">愛加倍會計師事務所 - AGAPE CPA FIRM</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>家族基金會 I</title>
+		<link>./images/7642.html</link>
+		
+		<dc:creator><![CDATA[jeel]]></dc:creator>
+		<pubDate>Wed, 08 Jan 2025 18:14:57 +0000</pubDate>
+				<category><![CDATA[個人稅]]></category>
+		<category><![CDATA[林懿稅務講堂]]></category>
+		<category><![CDATA[贈與稅及遺產稅]]></category>
+		<category><![CDATA[希望之聲訪談]]></category>
+		<guid isPermaLink="false">./images/?p=7642</guid>
+
+					<description><![CDATA[<p>歡迎來到林懿稅務講堂，我是會計師林懿。在24年11月波克夏的致股東書，股神巴菲特開宗明義的說他將會轉換1600 股的A股到兩百四十萬股的B股，目的是要將這些B股可以分別投入四個家族基金會。那到底什麼是家族基金會，以及它們有什麼樣稅務上的好處，讓許多的名流政要，設立自己的家族基金會。例如巴菲特的好朋友，微軟的比爾蓋兹有比爾與梅琳逹基金會，前美國總統柯林頓有克林頓希拉蕊與雀兒喜基金會，而下任總統川普也有川普基金會。 家族基金會是私募基金會（private foundation)的一種，主要是用投入家族的資產在基金會中，目地之一是凝聚家族成員從事慈善活動。成立家族基金會主要的好處有下列幾點。1， 家族基金會很常用創建人的姓名來命名，有一點青史留名的意味 2，捐贈者可以享受在schedule A, 列舉扣除額上的稅務抵減，但是抵減上限有所得限制 3，捐錢到家族基金會，會比捐款至公眾慈善事業對所捐出去的資產會有更多的控制權。但是家族基會也存在著其先天上的缺陷。例如先要花一筆錢成立基金會，接著每一年都要準備會計帳務及對著國稅局及其它的政府機關申報稅表及相關文件，某些情況下會產生excise tax 及可抵減捐贈金額的上限小於捐給公衆慈善事業。而且，一旦錢進入了家族基會，就算是日後解散，也不能將資產帶回家，必須轉贈給其他的非牟利組織。所以，當納稅人在考量用慈善捐款來達到減稅目的時候，應該根據自身的狀況，花一些時間來評估利弊得失。 以上便是本期節目的所有內容。我們下次再會。</p>
+<p>The post <a href="./images/7642.html">家族基金會 I</a> appeared first on <a href="./images">愛加倍會計師事務所 - AGAPE CPA FIRM</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p class="p1">歡迎來到林懿稅務講堂，我是會計師林懿。在<span class="s1">24</span>年<span class="s1">11</span>月波克夏的致股東書，股神巴菲特開宗明義的說他將會轉換<span class="s1">1600 </span>股的<span class="s1">A</span>股到兩百四十萬股的<span class="s1">B</span>股，目的是要將這些<span class="s1">B</span>股可以分別投入四個家族基金會。那到底什麼是家族基金會，以及它們有什麼樣稅務上的好處，讓許多的名流政要，設立自己的家族基金會。例如巴菲特的好朋友，微軟的比爾蓋兹有比爾與梅琳逹基金會，前美國總統柯林頓有克林頓希拉蕊與雀兒喜基金會，而下任總統川普也有川普基金會。</p>
+<p class="p1">家族基金會是私募基金會（<span class="s1">private foundation)</span>的一種，主要是用投入家族的資產在基金會中，目地之一是凝聚家族成員從事慈善活動。成立家族基金會主要的好處有下列幾點。<span class="s1">1</span>， 家族基金會很常用創建人的姓名來命名，有一點青史留名的意味<span class="s1"> 2</span>，捐贈者可以享受在<span class="s1">schedule A, </span>列舉扣除額上的稅務抵減，但是抵減上限有所得限制<span class="s1"> 3</span>，捐錢到家族基金會，會比捐款至公眾慈善事業對所捐出去的資產會有更多的控制權。但是家族基會也存在著其先天上的缺陷。例如先要花一筆錢成立基金會，接著每一年都要準備會計帳務及對著國稅局及其它的政府機關申報稅表及相關文件，某些情況下會產生<span class="s1">excise tax </span>及可抵減捐贈金額的上限小於捐給公衆慈善事業。而且，一旦錢進入了家族基會，就算是日後解散，也不能將資產帶回家，必須轉贈給其他的非牟利組織。所以，當納稅人在考量用慈善捐款來達到減稅目的時候，應該根據自身的狀況，花一些時間來評估利弊得失。</p>
+<p class="p1">以上便是本期節目的所有內容。我們下次再會。</p>
+<p>The post <a href="./images/7642.html">家族基金會 I</a> appeared first on <a href="./images">愛加倍會計師事務所 - AGAPE CPA FIRM</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>林懿稅務講堂-第14集：列舉扣除額之慈善捐款</title>
+		<link>./images/7060.html</link>
+		
+		<dc:creator><![CDATA[jeel]]></dc:creator>
+		<pubDate>Sun, 27 Feb 2022 22:59:58 +0000</pubDate>
+				<category><![CDATA[林懿稅務講堂]]></category>
+		<category><![CDATA[贈與稅及遺產稅]]></category>
+		<category><![CDATA[希望之聲訪談]]></category>
+		<guid isPermaLink="false">./images/?p=7060</guid>
+
+					<description><![CDATA[<p>節目時長：2分21秒      主持人：林懿會計師</p>
+<p>林懿稅務講堂-第14集：列舉扣除額之慈善捐款</p>
+<p>The post <a href="./images/7060.html">林懿稅務講堂-第14集：列舉扣除額之慈善捐款</a> appeared first on <a href="./images">愛加倍會計師事務所 - AGAPE CPA FIRM</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<h3></h3>
+<h3>節目時長：2分27秒      <strong>主持人：林懿會計師</strong></h3>
+<p>◇ 節目提要</p>
+<p>歡迎來到林㦤稅務講堂。我是會計師，林懿。今天要和大家聊一下列舉扣除額項下的慈善捐款。</p>
+<p>納稅人可以列舉扣除對於慈善機關的捐贈。而所謂合格的慈善機構包括了教會，宗教類，教育，科學或保護兒童及保護動物等組織。但要能合格抵減，捐贈的對象必須是在國稅局登記的501（c）(3)的免稅組織。而上國稅局的官網<a href="http://irs.gov/TEOS%E5%8F%AF%E4%BB%A5%E6%9F%A5%E8%A9%A2%E7%9B%B8%E9%97%9C%E7%9A%84%E8%B3%87%E8%A8%8A">irs.gov/TEOS可以查詢相關的資訊</a>。</p>
+<p>可以抵減的捐贈，包括了現金及非現金的部分。若是開車至慈善機構做義工，則可以抵減每一英哩十四美分的車馬費。但是捐赠若得到有價值的回饋，則該部分不能抵減。例如捐一百美元，得市值二十美元的的入場券，則只能抵減八十美元。若是抵減超過二百五十美元以上，則需要保留免稅組織開立的收據。</p>
+<p>而不能抵減的部分包括了政治獻金，捐血的血液價值，當義工的旅費（除非這當中不是主要為自己的渡假及旅游）, 國外的慈善機關（除非在美國國稅局立案，或是由美國有立案的免稅組織轉交）, 還有學費也不能在這個欄目下抵減。</p>
+<p>此外，抵減的金額也有限制。而且捐錢給私募基金（private foundation）也抵減在這個欄位，我們日後再討論更多細節。</p>
+<p>有興趣的朋友可上我們事務所的網站，<a href="./images">www.agapecpa.com</a> 搜尋更多的稅務資訊。或致電我們Cupertino 的辦公室 408-725-1700.</p>
+<p>感謝您的收聽。我們下期再會。</p>
+<p>The post <a href="./images/7060.html">林懿稅務講堂-第14集：列舉扣除額之慈善捐款</a> appeared first on <a href="./images">愛加倍會計師事務所 - AGAPE CPA FIRM</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>林懿稅務講堂-第13集：談RMD之錢忘了取了！怎麼辦？</title>
+		<link>./images/7010.html</link>
+		
+		<dc:creator><![CDATA[jeel]]></dc:creator>
+		<pubDate>Sun, 27 Feb 2022 21:59:18 +0000</pubDate>
+				<category><![CDATA[薪資稅]]></category>
+		<category><![CDATA[贈與稅及遺產稅]]></category>
+		<guid isPermaLink="false">./images/?p=7010</guid>
+
+					<description><![CDATA[<p>節目時長：2分28秒      主持人：林懿會計師</p>
+<p>談RMD之錢忘了取了！怎麼辦？</p>
+<p>The post <a href="./images/7010.html">林懿稅務講堂-第13集：談RMD之錢忘了取了！怎麼辦？</a> appeared first on <a href="./images">愛加倍會計師事務所 - AGAPE CPA FIRM</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<h3></h3>
+<h3>節目時長：2分28秒      <strong>主持人：林懿會計師</strong></h3>
+<p>◇ 節目提要</p>
+<p>歡迎來到林懿稅務講堂。我是會計師林懿。最近有一些詢問電話，是關於RMD(required minimum distribution)的問題。我們今天就來和大家來聊一下RMD的相關問題。</p>
+<p>RMD 指的是用以遞延所得的退休，金，到了一定的年齡就一定要強制取出部分的規定。強制取出的年齡，原為70歲半，但是因為疫情的緣故，改為七十二歲。有RMD 需求的退休金的項目為所有僱主支持的退休金，例如401(k),403(b)及SEP IRA等。而纳稅人自行開設的Traditional IRA 也有RMD的限制。但是Roth IRA 就沒有RMD的限制。RMD是納稅人在該年要提領的最低金額，納稅人可以提領超過RMD的數字。也由於疫情的關係，2020年並没有RMD的要求。2021年開始，納稅人又要開始RMD的程序。所以，近期接到的幾通詢問電話都是-那我2021年因為不需額外的生活費，因而沒有從退休帳戶提錢出來，那我該如何補救?國稅局會罰我錢嗎？</p>
+<p>如果沒有提領，建議儘快提領。而未提領的部分，將以百分之五十的稅率課稅。要填寫表格5329。如果納稅人有合理原因，則沒有按時提領的罰款可以移除，但是納稅人要填寫表格5329,並且要附上一篇解釋函, 來解釋此一原因。值得留意的， RMD不能被rollover至其他遞延繳稅的退休金帳戶取代。</p>
+<p>有興趣的朋友，可以上我們事務所的網站，<a href="./images/">www.agapecpa.com</a>, 搜尋更多的稅務訊息，或是致電我們Cupertino 的辦公室， 408-725-1700.</p>
+<p>感謝大家的收聽，我們下期再會。</p>
+<p>The post <a href="./images/7010.html">林懿稅務講堂-第13集：談RMD之錢忘了取了！怎麼辦？</a> appeared first on <a href="./images">愛加倍會計師事務所 - AGAPE CPA FIRM</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>稅改談贈與稅與遺產稅的改變</title>
+		<link>./images/1714.html</link>
+		
+		<dc:creator><![CDATA[corey.lee]]></dc:creator>
+		<pubDate>Wed, 02 Oct 2019 15:46:37 +0000</pubDate>
+				<category><![CDATA[個人稅]]></category>
+		<category><![CDATA[贈與稅及遺產稅]]></category>
+		<category><![CDATA[文章]]></category>
+		<guid isPermaLink="false">./images/?p=1714</guid>
+
+					<description><![CDATA[<p>川普總統致力於遺產稅的廢除。而稅改最終定案為一生的免稅額由原先的500萬美金改為1,000萬美金。但是此一日落條款是適用於在2017年12月31日至2026年1月1日之間死亡及贈與稅的免稅額。又由於考量到物價的調整，2019年個人的終生免稅額（Exemption）為1,140萬。而每一年個人的免稅額為1萬5千元。 這個意思是作為一個美國人，您一年可以給任何人，只要不超過1萬5千美元，就不需要向國稅局申報。而且這指的是一個人1萬5千元。若您有配偶，及兩個孩子的話，一個人可以各給每個孩子1萬5千美元，兩個孩子就可以贈與3萬美元。配偶也可贈另外的3萬美元。共計6萬元是不需要打稅，也不需要向國稅局申報的。 但同時，雖然在限額之下的贈與，並沒有贈與稅，但是贈與人不能用其來抵減其所得稅，同時也不是受贈人的所得。值得特別留意的是，一般美國公民夫妻之間的財產是可以無限制轉移的，但是，若一方是美國公民，另一方為非美國公民，則2019年的年度免稅額為$152,000。 此外，有一些項目是完全沒有贈與稅免稅額的限制。例如說是替人付學費，但要直接打錢到該教育機構；或是替人支付醫藥費，但是要直接打錢至該醫療機構才可以。 如果真的贈與的金額超過年度免稅額，該怎麼辦？例如，要贈與一棟房子給孩子，市值肯定超過3萬元。在這種狀況之下，最好能找鑑價師出具一份專業的鑑價報告。因為贈與稅是由贈與當天的公平市價來決定。若是這棟房贈與的總價不超過終身免稅額，也就是1,140萬，則僅有申報的義務，而不需要繳稅。但是終身的免稅額也會因此而降低。 綜上所述，由於川普稅改大幅放寬了終身免稅額，因此，大多數人的贈與可能都只有申報的義務，而不用繳稅。同時，納稅人也可以儘量利用每年每人1萬5千元的年度免稅額，來達到免稅，不需申報而又達到資產轉移的目的。</p>
+<p>The post <a href="./images/1714.html">稅改談贈與稅與遺產稅的改變</a> appeared first on <a href="./images">愛加倍會計師事務所 - AGAPE CPA FIRM</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>川普總統致力於遺產稅的廢除。而稅改最終定案為一生的免稅額由原先的500萬美金改為1,000萬美金。但是此一日落條款是適用於在2017年12月31日至2026年1月1日之間死亡及贈與稅的免稅額。又由於考量到物價的調整，2019年個人的終生免稅額（Exemption）為1,140萬。而每一年個人的免稅額為1萬5千元。</p>
+<p>這個意思是作為一個美國人，您一年可以給任何人，只要不超過1萬5千美元，就不需要向國稅局申報。而且這指的是一個人1萬5千元。若您有配偶，及兩個孩子的話，一個人可以各給每個孩子1萬5千美元，兩個孩子就可以贈與3萬美元。配偶也可贈另外的3萬美元。共計6萬元是不需要打稅，也不需要向國稅局申報的。</p>
+<p>但同時，雖然在限額之下的贈與，並沒有贈與稅，但是贈與人不能用其來抵減其所得稅，同時也不是受贈人的所得。值得特別留意的是，一般美國公民夫妻之間的財產是可以無限制轉移的，但是，若一方是美國公民，另一方為非美國公民，則2019年的年度免稅額為$152,000。</p>
+<p>此外，有一些項目是完全沒有贈與稅免稅額的限制。例如說是替人付學費，但要直接打錢到該教育機構；或是替人支付醫藥費，但是要直接打錢至該醫療機構才可以。</p>
+<p>如果真的贈與的金額超過年度免稅額，該怎麼辦？例如，要贈與一棟房子給孩子，市值肯定超過3萬元。在這種狀況之下，最好能找鑑價師出具一份專業的鑑價報告。因為贈與稅是由贈與當天的公平市價來決定。若是這棟房贈與的總價不超過終身免稅額，也就是1,140萬，則僅有申報的義務，而不需要繳稅。但是終身的免稅額也會因此而降低。</p>
+<p>綜上所述，由於川普稅改大幅放寬了終身免稅額，因此，大多數人的贈與可能都只有申報的義務，而不用繳稅。同時，納稅人也可以儘量利用每年每人1萬5千元的年度免稅額，來達到免稅，不需申報而又達到資產轉移的目的。</p>
+<p>The post <a href="./images/1714.html">稅改談贈與稅與遺產稅的改變</a> appeared first on <a href="./images">愛加倍會計師事務所 - AGAPE CPA FIRM</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

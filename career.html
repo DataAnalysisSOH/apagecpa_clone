@@ -1,0 +1,785 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Career – 愛加倍會計師事務所 | AGAPE CPA FIRM</title>
+  <meta name="description" content="We are hiring an Accountant for our office in Cupertino, California. Apply now at Agape CPA Firm." />
+  <link rel="canonical" href="./images/career" />
+
+  <!-- Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Open+Sans:wght@300;400;600;700&display=swap" rel="stylesheet" />
+  <!-- Font Awesome -->
+  <link rel="stylesheet" href="ajax/libs/font-awesome/6.5.0/css/all.min.css" />
+
+  <style>
+    /* ── Reset & Base ───────────────────────────────────────── */
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    :root {
+      --red:       #8c1212;
+      --red-dark:  #721414;
+      --red-hover: #611f81;
+      --navy:      #063c66;
+      --topbar-bg: #871b1b;
+      --text:      #333333;
+      --link:      #1e73be;
+      --link-hover:#a81919;
+      --border:    #ededed;
+      --footer-bg: #3f444a;
+      --font-body: 'Open Sans', sans-serif;
+      --font-head: 'Libre Baskerville', serif;
+    }
+
+    html { scroll-behavior: smooth; }
+
+    body {
+      font-family: var(--font-body);
+      font-size: 15px;
+      line-height: 1.8;
+      color: var(--text);
+      background: #fff;
+    }
+
+    h1,h2,h3,h4,h5,h6 { font-family: var(--font-head); line-height: 1.4; }
+    a { color: var(--link); text-decoration: none; transition: color .2s; }
+    a:hover { color: var(--link-hover); }
+
+    .container { max-width: 1200px; margin: 0 auto; padding: 0 24px; }
+
+    /* ── Top Bar ─────────────────────────────────────────────── */
+    #topbar {
+      background: var(--topbar-bg);
+      border-bottom: 2px solid var(--red-dark);
+      padding: 7px 0;
+    }
+
+    #topbar .inner {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 6px;
+    }
+
+    .topbar-contacts {
+      display: flex;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 18px;
+      list-style: none;
+    }
+
+    .topbar-contacts li a {
+      color: #fff;
+      font-size: 11px;
+      letter-spacing: .6px;
+      text-transform: uppercase;
+      display: flex;
+      align-items: center;
+      gap: 7px;
+    }
+
+    .topbar-contacts li a:hover { color: #ffd314; }
+    .topbar-contacts li a i { font-size: 12px; opacity: .9; }
+
+    .topbar-langs {
+      display: flex;
+      gap: 14px;
+      list-style: none;
+    }
+
+    .topbar-langs a {
+      color: #fff;
+      font-size: 11px;
+      letter-spacing: .6px;
+      text-transform: uppercase;
+    }
+
+    .topbar-langs a:hover { color: #ffd314; }
+
+    /* ── Header ──────────────────────────────────────────────── */
+    #site-header {
+      background: #fff;
+      box-shadow: 0 1px 6px rgba(0,0,0,.09);
+      position: sticky;
+      top: 0;
+      z-index: 100;
+    }
+
+    #header-inner {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      height: 94px;
+      gap: 20px;
+    }
+
+    #site-logo img {
+      max-height: 70px;
+      max-width: 261px;
+      width: auto;
+      display: block;
+    }
+
+    #site-nav ul {
+      list-style: none;
+      display: flex;
+      gap: 0;
+    }
+
+    #site-nav ul li a {
+      display: block;
+      padding: 0 18px;
+      line-height: 94px;
+      font-family: var(--font-body);
+      font-size: 14px;
+      font-weight: 600;
+      letter-spacing: 1px;
+      text-transform: uppercase;
+      color: #2c2c2c;
+      position: relative;
+      transition: color .2s;
+    }
+
+    #site-nav ul li a::after {
+      content: '';
+      position: absolute;
+      bottom: 0; left: 50%; right: 50%;
+      height: 3px;
+      background: var(--red);
+      transition: left .25s, right .25s;
+    }
+
+    #site-nav ul li a:hover,
+    #site-nav ul li.active a { color: var(--red); }
+
+    #site-nav ul li a:hover::after,
+    #site-nav ul li.active a::after { left: 0; right: 0; }
+
+    #mobile-toggle {
+      display: none;
+      background: none;
+      border: none;
+      cursor: pointer;
+      font-size: 22px;
+      color: #2c2c2c;
+      padding: 8px;
+    }
+
+    #mobile-menu {
+      display: none;
+      background: #fff;
+      border-top: 1px solid var(--border);
+      padding: 10px 0;
+    }
+
+    #mobile-menu ul { list-style: none; }
+    #mobile-menu ul li a {
+      display: block;
+      padding: 11px 24px;
+      font-size: 14px;
+      font-weight: 600;
+      letter-spacing: 1px;
+      text-transform: uppercase;
+      color: #2c2c2c;
+    }
+
+    #mobile-menu ul li a:hover,
+    #mobile-menu ul li.active a { color: var(--red); }
+
+    /* ── Page Banner ─────────────────────────────────────────── */
+    .page-banner {
+      background: var(--navy);
+      padding: 34px 0;
+    }
+
+    .page-banner h1 {
+      color: #fff;
+      font-size: 32px;
+    }
+
+    /* ── Main Content ────────────────────────────────────────── */
+    #main-content { padding: 56px 0 48px; }
+
+    .content-grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 52px;
+      align-items: start;
+    }
+
+    /* Job desc */
+    .job-desc h2 {
+      font-size: 26px;
+      color: var(--red);
+      margin-bottom: 22px;
+    }
+
+    .job-desc p { margin-bottom: 14px; }
+
+    .job-desc ol {
+      padding-left: 22px;
+      margin-bottom: 14px;
+    }
+
+    .job-desc ol li { margin-bottom: 8px; }
+
+    /* Form panel */
+    .form-panel {
+      background: #f8f8f8;
+      border-radius: 6px;
+      padding: 32px 28px;
+      box-shadow: 0 2px 20px rgba(0,0,0,.07);
+    }
+
+    .form-panel h3 {
+      font-size: 20px;
+      margin-bottom: 26px;
+      color: var(--navy);
+      padding-bottom: 14px;
+      border-bottom: 2px solid var(--red);
+    }
+
+    /* Form fields */
+    .form-row {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 14px;
+    }
+
+    .form-group { margin-bottom: 16px; }
+
+    label {
+      display: block;
+      font-size: 13px;
+      font-weight: 600;
+      margin-bottom: 5px;
+      color: #444;
+    }
+
+    label .req { color: var(--red); margin-left: 2px; }
+
+    input[type="text"],
+    input[type="email"],
+    input[type="tel"],
+    input[type="file"],
+    select {
+      width: 100%;
+      padding: 11px 14px;
+      font-family: var(--font-body);
+      font-size: 14px;
+      color: var(--text);
+      background: #fff;
+      border: 1px solid var(--border);
+      border-bottom-width: 3px;
+      border-radius: 4px;
+      transition: border-color .2s, box-shadow .2s;
+      appearance: none;
+      -webkit-appearance: none;
+    }
+
+    input[type="file"] {
+      padding: 9px 12px;
+      cursor: pointer;
+      background: #fafafa;
+    }
+
+    select {
+      background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='7'%3E%3Cpath d='M0 0l6 7 6-7z' fill='%23777'/%3E%3C/svg%3E");
+      background-repeat: no-repeat;
+      background-position: right 14px center;
+      padding-right: 36px;
+      height: 44px;
+    }
+
+    input:focus, select:focus {
+      outline: none;
+      border-color: var(--navy);
+      box-shadow: 0 0 0 3px rgba(6,60,102,.1);
+    }
+
+    .field-hint { font-size: 11px; color: #888; margin-top: 4px; }
+
+    .addr-stack { display: flex; flex-direction: column; gap: 8px; }
+
+    .addr-row {
+      display: grid;
+      grid-template-columns: 1fr 1fr 1fr;
+      gap: 10px;
+    }
+
+    .addr-subfield { display: flex; flex-direction: column; }
+
+    /* Honeypot */
+    .ohnohoney { display: none !important; }
+
+    /* Submit btn */
+    .btn-submit {
+      display: block;
+      width: 100%;
+      background: var(--red);
+      color: #fff;
+      border: none;
+      border-radius: 4px;
+      padding: 14px;
+      font-family: var(--font-body);
+      font-size: 14px;
+      font-weight: 700;
+      letter-spacing: 1px;
+      text-transform: uppercase;
+      cursor: pointer;
+      transition: background .2s, transform .15s;
+      margin-top: 8px;
+    }
+
+    .btn-submit:hover {
+      background: var(--red-hover);
+      transform: translateY(-1px);
+    }
+
+    /* ── Info Strip ──────────────────────────────────────────── */
+    .info-strip {
+      background: #f4f4f4;
+      border-top: 1px solid var(--border);
+      padding: 40px 0;
+    }
+
+    .info-grid {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 24px;
+      text-align: center;
+    }
+
+    .info-card i {
+      font-size: 28px;
+      color: var(--red);
+      margin-bottom: 12px;
+      display: block;
+    }
+
+    .info-card p { font-size: 14px; line-height: 1.7; color: #555; }
+    .info-card a { color: var(--link); }
+    .info-card a:hover { color: var(--link-hover); }
+
+    /* ── Map ─────────────────────────────────────────────────── */
+    .map-section iframe {
+      width: 100%;
+      height: 380px;
+      border: none;
+      display: block;
+    }
+
+    /* ── Footer ──────────────────────────────────────────────── */
+    #site-footer {
+      background: var(--footer-bg);
+      padding: 20px 0;
+      text-align: center;
+    }
+
+    #site-footer p { color: #c1c1c1; font-size: 12px; letter-spacing: 1px; }
+    #site-footer a { color: #c1c1c1; }
+    #site-footer a:hover { color: #dd9933; }
+
+    /* ── Scroll-top ──────────────────────────────────────────── */
+    #scroll-top {
+      position: fixed;
+      bottom: 24px; right: 24px;
+      background: var(--red);
+      color: #fff;
+      width: 42px; height: 42px;
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 17px;
+      opacity: 0;
+      pointer-events: none;
+      transition: opacity .3s, background .2s;
+      z-index: 999;
+    }
+
+    #scroll-top.visible { opacity: 1; pointer-events: auto; }
+    #scroll-top:hover { background: var(--red-hover); color: #fff; }
+
+    /* ── Responsive ──────────────────────────────────────────── */
+    @media (max-width: 960px) {
+      .content-grid { grid-template-columns: 1fr; }
+      .info-grid { grid-template-columns: 1fr; }
+    }
+
+    @media (max-width: 768px) {
+      #site-nav { display: none; }
+      #mobile-toggle { display: block; }
+      .topbar-contacts li a span { display: none; }
+      .form-row { grid-template-columns: 1fr; }
+      .addr-row { grid-template-columns: 1fr 1fr; }
+    }
+
+    @media (max-width: 480px) {
+      .addr-row { grid-template-columns: 1fr; }
+      #site-logo img { max-height: 52px; max-width: 180px; }
+      .form-panel { padding: 22px 16px; }
+    }
+  </style>
+</head>
+<body>
+
+  <!-- Top Bar -->
+  <div id="topbar">
+    <div class="container inner">
+      <ul class="topbar-contacts">
+        <li>
+          <a href="contact.html#map">
+            <i class="fas fa-map-marker-alt"></i>
+            <span>10430 S. De Anza Blvd, Suite 280, Cupertino, CA 95014</span>
+          </a>
+        </li>
+        <li>
+          <a href="tel:4087251700">
+            <i class="fas fa-phone-alt"></i>
+            <span>(408) 725-1700 | (408) 279-9988</span>
+          </a>
+        </li>
+        <li>
+          <a href="mailto:yilincpa@gmail.com">
+            <i class="far fa-envelope"></i>
+            <span>yilincpa@gmail.com</span>
+          </a>
+        </li>
+      </ul>
+      <ul class="topbar-langs">
+        <li><a href="index.html">中文</a></li>
+        <li><a href="en.html">English</a></li>
+      </ul>
+    </div>
+  </div>
+
+  <!-- Header -->
+  <header id="site-header">
+    <div class="container" id="header-inner">
+      <div id="site-logo">
+        <a href="index.html" rel="home">
+          <img
+            src="wp-content/uploads/sites/10/2019/11/cpax1.png"
+            alt="愛加倍會計師事務所 – AGAPE CPA FIRM"
+            width="261" height="59"
+          />
+        </a>
+      </div>
+
+      <nav id="site-nav" aria-label="Main navigation">
+        <ul>
+          <li><a href="en.html">Agape CPA Firm</a></li>
+          <li class="active"><a href="career.html" aria-current="page">We Are Hiring</a></li>
+        </ul>
+      </nav>
+
+      <button id="mobile-toggle" aria-label="Open navigation menu" aria-expanded="false" aria-controls="mobile-menu">
+        <i class="fas fa-bars"></i>
+      </button>
+    </div>
+
+    <div id="mobile-menu" aria-hidden="true">
+      <nav aria-label="Mobile navigation">
+        <ul>
+          <li><a href="en.html">Agape CPA Firm</a></li>
+          <li class="active"><a href="career.html">We Are Hiring</a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+
+  <!-- Page Banner -->
+  <div class="page-banner" role="banner">
+    <div class="container">
+      <h1>Career</h1>
+    </div>
+  </div>
+
+  <!-- Main Content -->
+  <main id="main-content">
+    <div class="container">
+      <div class="content-grid">
+
+        <!-- Job Description -->
+        <section aria-label="Job posting">
+          <div class="job-desc">
+            <h2>We Are Hiring</h2>
+
+            <p>We are currently seeking an <strong>Accountant</strong> for our office in Cupertino, California. The ideal candidate is a team-player, dedicated to excellence, hardworking, and committed to our client's success.</p>
+
+            <p><strong>Job Description:</strong> Mainly concerned with research and application of principles in accounting, economic theory, financial and taxation fields, and formulating plans to aid in advising clients on the recognition, interpretation, and resolution of financial problems through training in accounting, business management, and computer and communication skills.</p>
+
+            <p><strong>Responsibilities include:</strong></p>
+            <ol>
+              <li>Examine, compile and analyze accounting records of clients to reach analysis results for the use of giving business advice and preparing financial statements, tax returns or business plans;</li>
+              <li>Prepare and interpret financial reports and statistical charts and tables detailing findings;</li>
+              <li>Assist in formulating recommendations or plans to interpret and resolve clients' problems; and</li>
+              <li>Participate in research projects concerning business and tax planning, tax compliance and saving strategies.</li>
+            </ol>
+
+            <p>Master's degree in Accounting from an accredited university and 3 months experience in the job offered or related field required.</p>
+
+            <p>Ability to manage <strong>multiple tasks</strong>; willingness to learn and motivated to succeed; and good communication skills.</p>
+          </div>
+        </section>
+
+        <!-- Application Form -->
+        <aside aria-label="Job application form">
+          <div class="form-panel">
+            <h3>Job Application</h3>
+
+            <form
+              name="job-application"
+              method="POST"
+              enctype="multipart/form-data"
+              data-netlify="true"
+              netlify-honeypot="bot-field"
+              action="/thank-you"
+              novalidate
+            >
+              <!-- Netlify required hidden input -->
+              <input type="hidden" name="form-name" value="job-application" />
+
+              <!-- Honeypot spam trap -->
+              <p class="ohnohoney" aria-hidden="true">
+                <label>Leave blank: <input name="bot-field" tabindex="-1" autocomplete="off" /></label>
+              </p>
+
+              <!-- Name -->
+              <div class="form-row">
+                <div class="form-group">
+                  <label for="first-name">First Name <span class="req">*</span></label>
+                  <input type="text" id="first-name" name="first-name" autocomplete="given-name" required placeholder="First" />
+                </div>
+                <div class="form-group">
+                  <label for="last-name">Last Name <span class="req">*</span></label>
+                  <input type="text" id="last-name" name="last-name" autocomplete="family-name" required placeholder="Last" />
+                </div>
+              </div>
+
+              <!-- Email -->
+              <div class="form-group">
+                <label for="email">Email <span class="req">*</span></label>
+                <input type="email" id="email" name="email" autocomplete="email" required placeholder="you@example.com" />
+              </div>
+
+              <!-- Phone -->
+              <div class="form-row">
+                <div class="form-group">
+                  <label for="home-phone">Home Phone</label>
+                  <input type="tel" id="home-phone" name="home-phone" autocomplete="tel" placeholder="(408) 000-0000" />
+                </div>
+                <div class="form-group">
+                  <label for="mobile-phone">Mobile Phone</label>
+                  <input type="tel" id="mobile-phone" name="mobile-phone" autocomplete="tel" placeholder="(408) 000-0000" />
+                </div>
+              </div>
+
+              <!-- Address -->
+              <div class="form-group">
+                <label>Address <span class="req">*</span></label>
+                <div class="addr-stack">
+                  <input type="text" name="address-line1" autocomplete="address-line1" required placeholder="Street address" />
+                  <input type="text" name="address-line2" autocomplete="address-line2" placeholder="Apt, suite, unit (optional)" />
+                  <div class="addr-row">
+                    <div class="addr-subfield">
+                      <input type="text" name="city" autocomplete="address-level2" required placeholder="City" />
+                      <span class="field-hint">City</span>
+                    </div>
+                    <div class="addr-subfield">
+                      <input type="text" name="state" autocomplete="address-level1" required placeholder="State" />
+                      <span class="field-hint">State / Province</span>
+                    </div>
+                    <div class="addr-subfield">
+                      <input type="text" name="zip" autocomplete="postal-code" required placeholder="Zip" />
+                      <span class="field-hint">Zip / Postal</span>
+                    </div>
+                  </div>
+                  <div class="addr-subfield">
+                    <select name="country" autocomplete="country-name">
+                      <option value="">— Country —</option>
+                      <option value="United States" selected>United States</option>
+                      <option value="Canada">Canada</option>
+                      <option value="China">China</option>
+                      <option value="Taiwan">Taiwan</option>
+                      <option value="Hong Kong">Hong Kong</option>
+                      <option value="Afghanistan">Afghanistan</option>
+                      <option value="Albania">Albania</option>
+                      <option value="Algeria">Algeria</option>
+                      <option value="Argentina">Argentina</option>
+                      <option value="Australia">Australia</option>
+                      <option value="Austria">Austria</option>
+                      <option value="Belgium">Belgium</option>
+                      <option value="Bolivia">Bolivia</option>
+                      <option value="Brazil">Brazil</option>
+                      <option value="Cambodia">Cambodia</option>
+                      <option value="Chile">Chile</option>
+                      <option value="Colombia">Colombia</option>
+                      <option value="Croatia">Croatia</option>
+                      <option value="Czech Republic">Czech Republic</option>
+                      <option value="Denmark">Denmark</option>
+                      <option value="Egypt">Egypt</option>
+                      <option value="Finland">Finland</option>
+                      <option value="France">France</option>
+                      <option value="Germany">Germany</option>
+                      <option value="Greece">Greece</option>
+                      <option value="Hungary">Hungary</option>
+                      <option value="India">India</option>
+                      <option value="Indonesia">Indonesia</option>
+                      <option value="Iran">Iran</option>
+                      <option value="Ireland">Ireland</option>
+                      <option value="Israel">Israel</option>
+                      <option value="Italy">Italy</option>
+                      <option value="Japan">Japan</option>
+                      <option value="Jordan">Jordan</option>
+                      <option value="Kenya">Kenya</option>
+                      <option value="South Korea">South Korea</option>
+                      <option value="Malaysia">Malaysia</option>
+                      <option value="Mexico">Mexico</option>
+                      <option value="Netherlands">Netherlands</option>
+                      <option value="New Zealand">New Zealand</option>
+                      <option value="Nigeria">Nigeria</option>
+                      <option value="Norway">Norway</option>
+                      <option value="Pakistan">Pakistan</option>
+                      <option value="Philippines">Philippines</option>
+                      <option value="Poland">Poland</option>
+                      <option value="Portugal">Portugal</option>
+                      <option value="Romania">Romania</option>
+                      <option value="Russia">Russia</option>
+                      <option value="Saudi Arabia">Saudi Arabia</option>
+                      <option value="Singapore">Singapore</option>
+                      <option value="South Africa">South Africa</option>
+                      <option value="Spain">Spain</option>
+                      <option value="Sweden">Sweden</option>
+                      <option value="Switzerland">Switzerland</option>
+                      <option value="Thailand">Thailand</option>
+                      <option value="Turkey">Turkey</option>
+                      <option value="Ukraine">Ukraine</option>
+                      <option value="United Arab Emirates">United Arab Emirates</option>
+                      <option value="United Kingdom">United Kingdom</option>
+                      <option value="Vietnam">Vietnam</option>
+                    </select>
+                    <span class="field-hint">Country</span>
+                  </div>
+                </div>
+              </div>
+
+              <!-- Resume -->
+              <div class="form-group">
+                <label for="resume">Attach Resume</label>
+                <input type="file" id="resume" name="resume" accept=".pdf,.doc,.docx,.txt,.rtf" />
+                <span class="field-hint">PDF, DOC, DOCX, TXT — max 10 MB</span>
+              </div>
+
+              <button type="submit" class="btn-submit">Submit Application</button>
+            </form>
+          </div>
+        </aside>
+
+      </div><!-- .content-grid -->
+    </div><!-- .container -->
+  </main>
+
+  <!-- Info Strip -->
+  <section class="info-strip" aria-label="Office contact details">
+    <div class="container">
+      <div class="info-grid">
+        <div class="info-card">
+          <i class="fas fa-map-marker-alt"></i>
+          <p>10430 S. De Anza Blvd, Suite 280<br>Cupertino, CA 95014</p>
+        </div>
+        <div class="info-card">
+          <i class="fas fa-phone"></i>
+          <p>
+            <a href="tel:4087251700">(408) 725-1700</a><br>
+            <a href="tel:4082799988">(408) 279-9988</a>
+          </p>
+        </div>
+        <div class="info-card">
+          <i class="far fa-clock"></i>
+          <p>Monday – Friday: 8am – 6pm<br>Saturday: 9am – 12pm</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Map -->
+  <section aria-label="Office location map">
+    <div class="map-section">
+      <iframe
+        src="https://maps.google.com/maps?q=AGAPE%20CPA%20FIRM&t=m&z=13&output=embed&iwloc=near"
+        title="AGAPE CPA FIRM office location"
+        loading="lazy"
+        referrerpolicy="no-referrer-when-downgrade"
+      ></iframe>
+    </div>
+  </section>
+
+  <!-- Footer -->
+  <footer id="site-footer">
+    <div class="container">
+      <p>Copyright &copy; 2019 – 愛加倍會計師事務所 | Designed by <a href="https://sohdigitalmedia.com/" target="_blank" rel="noopener noreferrer">SOH Digital Media</a></p>
+    </div>
+  </footer>
+
+  <!-- Scroll-to-top -->
+  <a href="#" id="scroll-top" aria-label="Scroll to top of page">
+    <i class="fas fa-angle-up"></i>
+  </a>
+
+  <script>
+    /* ── Mobile menu toggle ─────────────────────────────────── */
+    const toggle = document.getElementById('mobile-toggle');
+    const mobileMenu = document.getElementById('mobile-menu');
+
+    toggle.addEventListener('click', () => {
+      const isOpen = mobileMenu.style.display === 'block';
+      mobileMenu.style.display = isOpen ? 'none' : 'block';
+      mobileMenu.setAttribute('aria-hidden', isOpen);
+      toggle.setAttribute('aria-expanded', !isOpen);
+      toggle.querySelector('i').className = isOpen ? 'fas fa-bars' : 'fas fa-times';
+    });
+
+    /* ── Scroll-to-top ──────────────────────────────────────── */
+    const scrollBtn = document.getElementById('scroll-top');
+
+    window.addEventListener('scroll', () => {
+      scrollBtn.classList.toggle('visible', window.scrollY > 300);
+    }, { passive: true });
+
+    scrollBtn.addEventListener('click', e => {
+      e.preventDefault();
+      window.scrollTo({ top: 0, behavior: 'smooth' });
+    });
+
+    /* ── Client-side validation highlight ──────────────────── */
+    const form = document.querySelector('form[name="job-application"]');
+
+    form.addEventListener('submit', e => {
+      let valid = true;
+      form.querySelectorAll('[required]').forEach(field => {
+        field.style.borderColor = '';
+        if (!field.value.trim()) {
+          field.style.borderColor = '#c0392b';
+          field.style.borderBottomColor = '#c0392b';
+          valid = false;
+        }
+      });
+      if (!valid) {
+        e.preventDefault();
+        const firstInvalid = form.querySelector('[required][style*="c0392b"]');
+        if (firstInvalid) { firstInvalid.focus(); firstInvalid.scrollIntoView({ behavior: 'smooth', block: 'center' }); }
+      }
+    });
+
+    form.querySelectorAll('[required]').forEach(field => {
+      field.addEventListener('input', () => { field.style.borderColor = ''; });
+    });
+  </script>
+</body>
+</html>
